@@ -27,7 +27,7 @@
  
 <div class="w3-clear"></div>
 <header class="w3-center w3-margin-bottom">
-  <h1><b>나는 프로그래머다</b> 
+  <h1><b>나는 프로그래머다2</b> 
   <Br>Synchro Spirit, 2018</h1>
   <p><b>Hoony photographers.</b></p>
   <p class="w3-padding-16">
